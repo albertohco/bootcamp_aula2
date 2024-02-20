@@ -1,4 +1,4 @@
-# Bootcamp Aula 2
+# Bootcamp Aula 2 Luciano Galvão
 
 # Aula 02: TypeError, Type Check, Type Conversion, try-except e if
 
